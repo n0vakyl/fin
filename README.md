@@ -6,3 +6,9 @@ Okay, I will leave 🚶🏾‍♂️‍➡️😅
 Lastly, you can access everything directly from here if you so wish too.
 
 Bye😆
+
+# Link 
+
+easy link to site: https://kmthetho.github.io/fin/
+
+but go into Deployments if you run into issues, with above link
